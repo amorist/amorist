@@ -4,9 +4,7 @@
 -->
 
 <p align="center">
-    <!-- ![](../image/1.png) -->
-    ![11](./image/S5.png)
-  <img width="250" src="../image/S5.png">
+  <img width="250" src="https://github.com/amorist/amorist/raw/master/image/S5.png">
 </p>
 
 <!--
