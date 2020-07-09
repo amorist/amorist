@@ -5,6 +5,6 @@
 
 <div style="display: flex; justify-content: space-around; width: 100%;">
     <img alt="Name" style="display: inline;" src="https://img.shields.io/badge/ name-amor-brightgreen">
-    <img alt="Name" style="display: inline;" src="https://img.shields.io/badge/ age-25-brightgreen">
+    <img alt="Name" style="display: inline;" src="https://img.shields.io/badge/ age-25-red">
     <img alt="Twitter Follow" style="display: inline;" src="https://img.shields.io/twitter/follow/amor90s?style=social">
 </div>
