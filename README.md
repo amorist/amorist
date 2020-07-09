@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img width="250" src="https://github.com/amorist/amorist/raw/master/image/S5.png">
+  <img width="250" src="https://github.com/amorist/amorist/raw/master/image/Bottts%20Library%20Video.gif">
 </p>
 
 <!--
