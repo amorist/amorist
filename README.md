@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="display: flex; justify-content: space-around; width: 100%;">
+<div align="center">
     <img alt="Name" style="display: inline;" src="https://img.shields.io/badge/name-amor-brightgreen">
     <img alt="Age" style="display: inline;" src="https://img.shields.io/badge/age-26-orange">
     <img alt="Language" style="display: inline;" src="https://img.shields.io/badge/language-golang|nodejs|python-blue">
