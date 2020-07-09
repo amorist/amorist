@@ -3,5 +3,5 @@
 ![Amor](https://avatars0.githubusercontent.com/u/14037268?s=460&u=141e9e5c5e86a2cf652ca9a3b0271f06ea0e4488&v=4)
 -->
 
-<img alt="Twitter Follow" style="display: inline-block;" src="https://img.shields.io/badge/name-amor-brightgreen">
-<img alt="Twitter Follow" style="display: inline-block;" src="https://img.shields.io/twitter/follow/amor90s?style=social">
+<img alt="Name" style="display: inline;" src="https://img.shields.io/badge/name-amor-brightgreen">
+<img alt="Twitter Follow" style="display: inline;" src="https://img.shields.io/twitter/follow/amor90s?style=social">
