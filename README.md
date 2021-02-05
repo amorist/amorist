@@ -3,6 +3,8 @@
 ![Amor](https://avatars0.githubusercontent.com/u/14037268?s=460&u=141e9e5c5e86a2cf652ca9a3b0271f06ea0e4488&v=4)
 -->
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amorist)](https://github.com/anuraghazra/github-readme-stats)
+
 <p align="center">
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
